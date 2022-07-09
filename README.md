@@ -22,5 +22,5 @@ Lessons Learned:
 
 
 
-The complications of getting images in a gallery where they are displayed alongside each other helped me to learn to be more sensitive to the needs of properly displayed said images in an aesthetically pleasing manner.
+The complications of getting images in a gallery where they are displayed alongside each other in an aesthetically pleasing manner helped me to learn to be more sensitive to the needs of positioning and styling said images.
 
