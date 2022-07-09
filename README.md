@@ -1,23 +1,26 @@
 # DominicanCake
 
-My Awesome Project
+Divine Dominican Cake
 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+English-language site for client meant to serve as a means to display some of their work and to allow thos interested in the topic to contact them directly. Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
 
-alt tag
+Link to project: https://dominicancake.netlify.app/
+![D'Cake](https://user-images.githubusercontent.com/102261261/178123293-db538de0-487e-4f13-954f-2316eb2a175e.jpg)
+
+
 How It's Made:
 
-Tech used: HTML, CSS, JavaScript, Framework of choice
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-Optimizations
+Tech used: HTML, CSS, JavaScript
 
-(optional)
 
-You don't have to include this section but interviewers love that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are GREAT to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Built out relatively simple site using HTML, CSS, and JavaScript based on client's needs and course corrected based on their input as the project was deveeloped. Primary goals of site were to display client's works, to inform about the product, and to allow means to contact the client for further information.
+
 Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or fuck yeah I did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+
+
+The complications of getting images in a gallery where they are displayed alongside each other helped me to learn to be more sensitive to the needs of properly displayed said images in an aesthetically pleasing manner.
+
