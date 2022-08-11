@@ -6,7 +6,7 @@ English-language site for client meant to serve as a means to display some of th
 
 
 Link to project: https://dominicancake.netlify.app/
-![D'Cake](https://user-images.githubusercontent.com/102261261/178123293-db538de0-487e-4f13-954f-2316eb2a175e.jpg)
+![image](https://user-images.githubusercontent.com/102261261/184210100-0ef64bf8-b9e7-4039-97f5-18b86a033160.png)
 
 
 How It's Made:
